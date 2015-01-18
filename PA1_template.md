@@ -1,6 +1,5 @@
 # Reproducible Research: Peer Assessment 1
 
-
 ## Loading and preprocessing the data
 The data is contained in a csv file, with three columns: the number of steps, the date (‘YYYY-MM-DD’ format) and an id label for each 5 minute interval. Missing step values where coded as NA.
 
